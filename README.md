@@ -15,4 +15,4 @@ Hi, I'm Shashank Gupta 👋<br><br>🎓 M.Tech CSE student at MANIT Bhopal  <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
